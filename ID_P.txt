@@ -1,0 +1,18 @@
+bigrock
+id aanandsingh289@gmail.com
+pass anand289
+
+------------------------
+
+database for SoC, bigrock
+ name: susta91n_abc
+
+username: susta91n_anand
+anand289
+
+------------------------
+
+wordpress org login
+
+user: AnandSingh
+pass anand289

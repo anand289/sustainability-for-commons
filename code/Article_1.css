@@ -1,0 +1,198 @@
+#body{	margin: 0px;
+	background-color:#f1f1f1;
+    font-family: calibri;
+	}
+
+#container{
+	width:100%;
+	height:1169px;
+	box-shadow: 0 4px 8px 0 #223E4A;
+	
+	
+	}
+
+#nav p{
+    position: relative;
+    top: 14px;
+    left:20%;
+    display:inline;
+	font-family: calibri;
+	color: #223E4A;
+}
+
+
+	
+	
+#nav{
+	height: 4%;
+    background-color: #f1f1f1;
+	}
+
+#nav ul{
+	list-style-type: none;
+    background-color: #f1f1f1;
+	margin: 0px;
+    padding: 0px;
+	}
+
+
+#nav ul li{
+	float: left;
+	background-color: #f1f1f1;
+	}
+
+
+#nav ul li a{	
+	display: block;
+    	color: #000;
+    	text-decoration: none;
+	padding: 14px 16px;	
+	}
+
+#nav ul li:last-child{
+	float: right;
+	border: none;
+	}
+#nav ul li a:hover{
+	background-color: #555;
+    color: white;
+	box-shadow: 0 4px 8px 0 #223E4A;
+	}
+
+#aside a:hover{
+	background-color: #555;
+    	color: white;
+	box-shadow: 0 4px 8px 0 #223E4A;
+	}
+	
+#nav ul li a.active{
+	 background-color: #4CAF50;
+     color: white;
+	}
+
+#nav ul li a.fa-bell{
+	margin:0px;
+    padding: 15px 17px;
+	}
+
+#content{
+	height:100%;
+	background-color: black;
+	padding: 0px;
+	margin: 0px;
+	
+}
+	
+	#aside{	
+		height: 100%;
+		width: 20%;
+		background-color:#355667;
+		float:right;
+		
+		}
+
+		#aside ul{
+			list-style-type: none;
+			margin: 0;
+    			padding: 0;
+    			background-color: #f1f1f1;
+	
+			}
+
+		#aside ul li{
+			background-color: #f1f1f1;
+			}
+		
+
+		#aside	 ul li a{	
+			display: block;
+    			color: #000;
+    			text-decoration: none;
+			padding: 14px 16px;	
+			}
+		#aside ul li a:hover{
+			background-color: #555;
+    			color: white;
+			box-shadow: 0 4px 8px 0 #223E4A;
+			}
+			
+			#aside ul li a.active{
+	 background-color: #4CAF50;
+     color: white;
+	}
+
+        
+
+         #social{
+                    height:50%;
+                    text-align: center;
+                    padding-top: 100px;
+                        }
+			
+                    .fa-facebook {
+              background: #3B5998;
+              color: white;
+               padding: 20px;
+              font-size: 30px;
+              width: 16px;
+              text-align: center;
+              text-decoration: none;
+              margin: 24px 16px;
+              border-radius: 50%;
+            }	
+
+            #social a:hover{
+            box-shadow: 0 4px 8px 0 #223E4A;	
+            }
+
+                    .fa-linkedin {
+              background: #007bb5;
+             color: white;
+               padding: 20px;
+              font-size: 30px;
+              width: 16px;
+              text-align: center;
+              text-decoration: none;
+              margin: 24px 2px;
+              border-radius: 50%;
+            }
+
+	
+
+	#article{
+		height:100%;
+		width: 80%;
+		overflow:scroll;
+		background-color:#f1f1f1;
+		}
+		
+		#card{
+			height:90%;
+			width:75%;
+			margin:auto;
+			text-align:justify;
+			font-size: 15px;
+			padding-top:128px;
+		}
+		
+		#card h3{
+		     letter-spacing:0.5px;
+		}
+		
+		#card p{
+		    letter-spacing:0.2;
+		}
+		
+		
+
+#footer{	
+	height:6%;
+	background-color:#355667;
+	padding-top: 14px;
+	box-shadow: 0 4px 8px 0 #223E4A;
+		}
+		
+	#footer p {
+	color: white;
+	text-align: center;
+}

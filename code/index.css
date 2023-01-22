@@ -1,0 +1,288 @@
+#body{	margin: 0px;
+	background-color:#f1f1f1;
+    font-family: calibri;
+    
+	}
+
+#container{
+	width:100%;
+	height:1169px;
+	box-shadow: 0 4px 8px 0 #223E4A;
+	
+	
+	}
+
+
+#nav p{
+    position: relative;
+    top: 14px;
+    left: 25%;
+    display:inline;
+	font-family: calibri;
+	color: #223E4A;
+}
+
+#prev {
+  color: white;
+  font-weight: bold;
+  position: absolute;
+  bottom: 285px;    
+    padding: 16px;
+ }
+
+#next {
+position: absolute;
+right: 0px;
+bottom: 285px;    
+color: white;
+font-weight: bold;
+    padding: 16px;
+   
+    
+ 
+}
+
+#prev:hover {
+    cursor: pointer;
+  background-color: rgba(0,0,0,0.8);
+}
+
+#next:hover {
+    cursor: pointer;
+  background-color: rgba(0,0,0,0.8);
+}
+
+
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+
+	
+
+#nav{
+	
+	height:4%;
+	background-color: #f1f1f1;
+	
+		
+}
+
+#nav ul{
+	list-style-type: none;
+	margin: 0px;
+    	padding: 0px;
+    	background-color: #f1f1f1;
+	
+	}
+
+#nav ul li{
+	float: left;
+	background-color: #f1f1f1;
+	}
+
+
+#nav ul li a{	
+	display: block;
+    	color: #000;
+    	text-decoration: none;
+	padding: 14px 16px;	
+	}
+
+#nav ul li:last-child{
+	float: right;
+	}
+	
+#nav ul li a.fa-bell{
+	margin:0px;
+    padding: 15px 17px;
+	}
+
+#nav ul li a:hover{
+	background-color: #555;
+    color: white;
+	box-shadow: 0 4px 8px 0 #223E4A;
+	}
+
+#nav ul li a.active{
+	 background-color: #4CAF50;
+     color: white;
+	}
+
+#main{
+	height: 50%;
+    width: 100%;
+	margin:auto;
+    border-spacing: 36px;  
+    }
+
+#zero{
+    width: 33.33%;
+}
+
+#zero_img{
+	box-shadow: 0 4px 8px 0 #223E4A;
+	}
+#zero_img:hover{
+    box-shadow: 0 8px 16px 0 #223E4A;
+}
+
+#one{
+    width: 33.33%;
+}
+
+#one_img{
+	box-shadow: 0 4px 8px 0 #223E4A;
+	}
+#one_img:hover{
+    box-shadow: 0 8px 16px 0 #223E4A;
+}
+
+#two{
+    width: 33.33%;
+}
+
+#two_img{
+	box-shadow: 0 4px 8px 0 #223E4A;
+	}
+#two_img:hover{
+    box-shadow: 0 8px 16px 0 #223E4A;
+}
+
+#article p{
+    text-align: center;
+    letter-spacing: 5px;
+    color:#464646;
+    }
+
+#sug_box{
+    width:50%;
+    height: 288px;
+    margin: auto;
+}
+
+#video{
+    width: 100%;
+    height: 100%;
+    border-style:black;
+}
+	
+
+#content{
+	height:67%;
+	background-color: black;
+	padding: 0;
+	margin: 0;
+	
+}
+	
+	#aside{	
+		height: 100%;
+		width: 20%;
+		background-color:#355667;
+		float:right;
+		
+		}
+
+		#aside ul{
+			list-style-type: none;
+			margin: 0;
+    			padding: 0;
+    			background-color: #f1f1f1;
+		}
+
+		#aside ul li{
+			background-color: #f1f1f1;
+			}
+		
+
+		#aside	 ul li a{	
+			display: block;
+    			color: #000;
+    			text-decoration: none;
+			padding: 14px 16px;	
+			}
+		#aside ul li a:hover{
+			background-color: #555;
+    			color: white;
+			box-shadow: 0 4px 8px 0 #223E4A;
+	
+			}
+			
+                #social{
+                    height:50%;
+                    text-align: center;
+                    padding-top: 100px;
+                        }
+			
+                    .fa-facebook {
+              background: #3B5998;
+              color: white;
+               padding: 20px;
+              font-size: 30px;
+              width: 16px;
+              text-align: center;
+              text-decoration: none;
+              margin: 24px 16px;
+              border-radius: 50%;
+            }	
+
+            #social a:hover{
+            box-shadow: 0 4px 8px 0 #223E4A;	
+            }
+
+                    .fa-linkedin {
+              background: #007bb5;
+             color: white;
+               padding: 20px;
+              font-size: 30px;
+              width: 16px;
+              text-align: center;
+              text-decoration: none;
+              margin: 24px 2px;
+              border-radius: 50%;
+            }
+
+
+
+	#article{
+		
+		height:100%;
+		width: 80%;
+		background-color:#f1f1f1;
+		overflow: auto;
+		}
+
+#footer{	
+	height:6%;
+	background-color:#355667;
+	padding-top: 14px;
+	box-shadow: 0 4px 8px 0 #223E4A;
+		}
+		
+#footer p{
+	color: white;
+	text-align: center;
+}
+	
+	
+
+
+
+
+	
+
+		

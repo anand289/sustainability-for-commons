@@ -1,0 +1,109 @@
+[28-Jul-2018 21:15:24 Etc/GMT] PHP Notice:  Undefined index: email in /home/susta91n/public_html/Confirmation.php on line 7
+[01-Aug-2018 20:00:09 Etc/GMT] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/susta91n/public_html/Confirmation.php on line 45
+[01-Aug-2018 20:00:19 Etc/GMT] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/susta91n/public_html/Confirmation.php on line 45
+[01-Aug-2018 20:01:43 Etc/GMT] PHP Parse error:  syntax error, unexpected ':' in /home/susta91n/public_html/Confirmation.php on line 53
+[01-Aug-2018 20:01:47 Etc/GMT] PHP Parse error:  syntax error, unexpected ':' in /home/susta91n/public_html/Confirmation.php on line 53
+[01-Aug-2018 20:05:29 Etc/GMT] PHP Parse error:  syntax error, unexpected ':' in /home/susta91n/public_html/Confirmation.php on line 53
+[01-Aug-2018 20:08:58 Etc/GMT] PHP Parse error:  syntax error, unexpected ':' in /home/susta91n/public_html/Confirmation.php on line 24
+[01-Aug-2018 20:11:40 Etc/GMT] PHP Parse error:  syntax error, unexpected ':' in /home/susta91n/public_html/Confirmation.php on line 24
+[01-Aug-2018 20:12:46 Etc/GMT] PHP Parse error:  syntax error, unexpected ':' in /home/susta91n/public_html/Confirmation.php on line 24
+[01-Aug-2018 20:12:57 Etc/GMT] PHP Parse error:  syntax error, unexpected ':' in /home/susta91n/public_html/Confirmation.php on line 24
+[01-Aug-2018 20:13:50 Etc/GMT] PHP Parse error:  syntax error, unexpected ':' in /home/susta91n/public_html/Confirmation.php on line 24
+[01-Aug-2018 20:13:54 Etc/GMT] PHP Parse error:  syntax error, unexpected ':' in /home/susta91n/public_html/Confirmation.php on line 24
+[01-Aug-2018 20:15:42 Etc/GMT] PHP Parse error:  syntax error, unexpected ':' in /home/susta91n/public_html/Confirmation.php on line 24
+[01-Aug-2018 20:15:53 Etc/GMT] PHP Parse error:  syntax error, unexpected ':' in /home/susta91n/public_html/Confirmation.php on line 24
+[01-Aug-2018 20:17:14 Etc/GMT] PHP Parse error:  syntax error, unexpected ':' in /home/susta91n/public_html/Confirmation.php on line 24
+[01-Aug-2018 20:17:18 Etc/GMT] PHP Parse error:  syntax error, unexpected ':' in /home/susta91n/public_html/Confirmation.php on line 24
+[01-Aug-2018 20:21:28 Etc/GMT] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/susta91n/public_html/Confirmation.php on line 26
+[01-Aug-2018 20:21:33 Etc/GMT] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/susta91n/public_html/Confirmation.php on line 26
+[01-Aug-2018 20:23:17 Etc/GMT] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/susta91n/public_html/Confirmation.php on line 26
+[01-Aug-2018 20:30:19 Etc/GMT] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/susta91n/public_html/Confirmation.php on line 56
+[01-Aug-2018 20:36:44 Etc/GMT] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/susta91n/public_html/Confirmation.php on line 61
+[01-Aug-2018 20:37:58 Etc/GMT] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/susta91n/public_html/Confirmation.php on line 61
+[01-Aug-2018 20:38:01 Etc/GMT] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/susta91n/public_html/Confirmation.php on line 61
+[01-Aug-2018 20:40:13 Etc/GMT] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE) in /home/susta91n/public_html/Confirmation.php on line 59
+[01-Aug-2018 20:44:49 Etc/GMT] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE) in /home/susta91n/public_html/Confirmation.php on line 59
+[01-Aug-2018 20:46:49 Etc/GMT] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE) in /home/susta91n/public_html/Confirmation.php on line 59
+[01-Aug-2018 20:47:17 Etc/GMT] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE) in /home/susta91n/public_html/Confirmation.php on line 59
+[01-Aug-2018 20:47:26 Etc/GMT] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE) in /home/susta91n/public_html/Confirmation.php on line 59
+[01-Aug-2018 20:48:39 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/susta91n/public_html/Confirmation.php on line 47
+[01-Aug-2018 20:48:39 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/susta91n/public_html/Confirmation.php on line 53
+[01-Aug-2018 20:48:39 Etc/GMT] PHP Fatal error:  Function name must be a string in /home/susta91n/public_html/Confirmation.php on line 57
+[01-Aug-2018 20:50:32 Etc/GMT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/susta91n/public_html/Confirmation.php on line 61
+[01-Aug-2018 20:50:37 Etc/GMT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/susta91n/public_html/Confirmation.php on line 61
+[01-Aug-2018 20:51:11 Etc/GMT] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE) in /home/susta91n/public_html/Confirmation.php on line 59
+[01-Aug-2018 20:52:38 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/susta91n/public_html/Confirmation.php on line 47
+[01-Aug-2018 20:52:38 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/susta91n/public_html/Confirmation.php on line 53
+[01-Aug-2018 20:52:38 Etc/GMT] PHP Fatal error:  Function name must be a string in /home/susta91n/public_html/Confirmation.php on line 57
+[01-Aug-2018 20:53:10 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/susta91n/public_html/Confirmation.php on line 47
+[01-Aug-2018 20:53:10 Etc/GMT] PHP Fatal error:  Function name must be a string in /home/susta91n/public_html/Confirmation.php on line 57
+[01-Aug-2018 20:55:54 Etc/GMT] PHP Fatal error:  Function name must be a string in /home/susta91n/public_html/Confirmation.php on line 57
+[01-Aug-2018 20:56:19 Etc/GMT] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE) in /home/susta91n/public_html/Confirmation.php on line 59
+[01-Aug-2018 20:56:50 Etc/GMT] PHP Fatal error:  Function name must be a string in /home/susta91n/public_html/Confirmation.php on line 57
+[01-Aug-2018 20:58:20 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localost' (2) in /home/susta91n/public_html/Confirmation.php on line 47
+[01-Aug-2018 20:58:20 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/susta91n/public_html/Confirmation.php on line 53
+[01-Aug-2018 20:58:20 Etc/GMT] PHP Fatal error:  Function name must be a string in /home/susta91n/public_html/Confirmation.php on line 57
+[01-Aug-2018 20:59:31 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localost' (2) in /home/susta91n/public_html/Confirmation.php on line 47
+[01-Aug-2018 20:59:31 Etc/GMT] PHP Fatal error:  Function name must be a string in /home/susta91n/public_html/Confirmation.php on line 58
+[01-Aug-2018 20:59:51 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localost' (2) in /home/susta91n/public_html/Confirmation.php on line 47
+[01-Aug-2018 20:59:51 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/susta91n/public_html/Confirmation.php on line 54
+[01-Aug-2018 20:59:51 Etc/GMT] PHP Fatal error:  Function name must be a string in /home/susta91n/public_html/Confirmation.php on line 58
+[01-Aug-2018 21:00:32 Etc/GMT] PHP Fatal error:  Function name must be a string in /home/susta91n/public_html/Confirmation.php on line 58
+[01-Aug-2018 21:00:41 Etc/GMT] PHP Fatal error:  Function name must be a string in /home/susta91n/public_html/Confirmation.php on line 58
+[01-Aug-2018 21:00:46 Etc/GMT] PHP Fatal error:  Function name must be a string in /home/susta91n/public_html/Confirmation.php on line 58
+[01-Aug-2018 21:03:36 Etc/GMT] PHP Fatal error:  Function name must be a string in /home/susta91n/public_html/Confirmation.php on line 58
+[01-Aug-2018 21:04:59 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:123' (2) in /home/susta91n/public_html/Confirmation.php on line 47
+[01-Aug-2018 21:04:59 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/susta91n/public_html/Confirmation.php on line 54
+[01-Aug-2018 21:04:59 Etc/GMT] PHP Fatal error:  Function name must be a string in /home/susta91n/public_html/Confirmation.php on line 58
+[01-Aug-2018 21:06:06 Etc/GMT] PHP Fatal error:  Function name must be a string in /home/susta91n/public_html/Confirmation.php on line 58
+[01-Aug-2018 21:07:42 Etc/GMT] PHP Fatal error:  Function name must be a string in /home/susta91n/public_html/Confirmation.php on line 58
+[01-Aug-2018 21:09:36 Etc/GMT] PHP Fatal error:  Function name must be a string in /home/susta91n/public_html/Confirmation.php on line 58
+[01-Aug-2018 21:15:02 Etc/GMT] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/susta91n/public_html/Confirmation.php on line 60
+[01-Aug-2018 21:15:28 Etc/GMT] PHP Fatal error:  Function name must be a string in /home/susta91n/public_html/Confirmation.php on line 58
+[01-Aug-2018 21:21:34 Etc/GMT] PHP Fatal error:  Function name must be a string in /home/susta91n/public_html/Confirmation.php on line 58
+[01-Aug-2018 21:24:48 Etc/GMT] PHP Fatal error:  Function name must be a string in /home/susta91n/public_html/Confirmation.php on line 58
+[01-Aug-2018 21:27:43 Etc/GMT] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE) in /home/susta91n/public_html/Confirmation.php on line 61
+[01-Aug-2018 21:28:23 Etc/GMT] PHP Fatal error:  Function name must be a string in /home/susta91n/public_html/Confirmation.php on line 58
+[01-Aug-2018 21:28:50 Etc/GMT] PHP Fatal error:  Function name must be a string in /home/susta91n/public_html/Confirmation.php on line 58
+[01-Aug-2018 21:30:07 Etc/GMT] PHP Fatal error:  Function name must be a string in /home/susta91n/public_html/Confirmation.php on line 58
+[02-Aug-2018 03:48:05 Etc/GMT] PHP Fatal error:  Function name must be a string in /home/susta91n/public_html/Confirmation.php on line 58
+[02-Aug-2018 03:48:05 Etc/GMT] PHP Fatal error:  Function name must be a string in /home/susta91n/public_html/Confirmation.php on line 58
+[02-Aug-2018 04:33:58 Etc/GMT] PHP Fatal error:  Function name must be a string in /home/susta91n/public_html/Confirmation.php on line 58
+[02-Aug-2018 09:09:46 Etc/GMT] PHP Fatal error:  Function name must be a string in /home/susta91n/public_html/Confirmation.php on line 58
+[02-Aug-2018 09:09:46 Etc/GMT] PHP Fatal error:  Function name must be a string in /home/susta91n/public_html/Confirmation.php on line 58
+[02-Aug-2018 09:18:43 Etc/GMT] PHP Fatal error:  Function name must be a string in /home/susta91n/public_html/Confirmation.php on line 58
+[02-Aug-2018 09:18:52 Etc/GMT] PHP Fatal error:  Function name must be a string in /home/susta91n/public_html/Confirmation.php on line 58
+[02-Aug-2018 09:19:06 Etc/GMT] PHP Fatal error:  Function name must be a string in /home/susta91n/public_html/Confirmation.php on line 58
+[02-Aug-2018 09:22:48 Etc/GMT] PHP Parse error:  syntax error, unexpected 'ababd' (T_STRING) in /home/susta91n/public_html/Confirmation.php on line 57
+[02-Aug-2018 09:31:39 Etc/GMT] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE) in /home/susta91n/public_html/Confirmation.php on line 58
+[02-Aug-2018 09:32:28 Etc/GMT] PHP Fatal error:  Function name must be a string in /home/susta91n/public_html/Confirmation.php on line 56
+[02-Aug-2018 09:35:13 Etc/GMT] PHP Fatal error:  Function name must be a string in /home/susta91n/public_html/Confirmation.php on line 56
+[02-Aug-2018 09:37:52 Etc/GMT] PHP Fatal error:  Function name must be a string in /home/susta91n/public_html/Confirmation.php on line 56
+[02-Aug-2018 09:38:21 Etc/GMT] PHP Fatal error:  Function name must be a string in /home/susta91n/public_html/Confirmation.php on line 56
+[02-Aug-2018 09:40:09 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'susta91n_subs'@'localhost' (using password: YES) in /home/susta91n/public_html/Confirmation.php on line 45
+[02-Aug-2018 09:40:09 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/susta91n/public_html/Confirmation.php on line 52
+[02-Aug-2018 09:40:09 Etc/GMT] PHP Fatal error:  Function name must be a string in /home/susta91n/public_html/Confirmation.php on line 56
+[02-Aug-2018 09:40:38 Etc/GMT] PHP Fatal error:  Function name must be a string in /home/susta91n/public_html/Confirmation.php on line 56
+[02-Aug-2018 09:51:39 Etc/GMT] PHP Fatal error:  Function name must be a string in /home/susta91n/public_html/Confirmation.php on line 56
+[02-Aug-2018 09:53:03 Etc/GMT] PHP Fatal error:  Function name must be a string in /home/susta91n/public_html/Confirmation.php on line 56
+[02-Aug-2018 09:54:45 Etc/GMT] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE) in /home/susta91n/public_html/Confirmation.php on line 58
+[02-Aug-2018 09:55:07 Etc/GMT] PHP Fatal error:  Function name must be a string in /home/susta91n/public_html/Confirmation.php on line 56
+[02-Aug-2018 09:56:12 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/susta91n/public_html/Confirmation.php on line 45
+[02-Aug-2018 09:56:12 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/susta91n/public_html/Confirmation.php on line 52
+[02-Aug-2018 09:56:12 Etc/GMT] PHP Fatal error:  Function name must be a string in /home/susta91n/public_html/Confirmation.php on line 56
+[02-Aug-2018 09:59:06 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/susta91n/public_html/Confirmation.php on line 14
+[02-Aug-2018 09:59:06 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/susta91n/public_html/Confirmation.php on line 21
+[02-Aug-2018 09:59:06 Etc/GMT] PHP Fatal error:  Function name must be a string in /home/susta91n/public_html/Confirmation.php on line 25
+[02-Aug-2018 10:12:50 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/susta91n/public_html/Confirmation.php on line 14
+[02-Aug-2018 10:12:50 Etc/GMT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/susta91n/public_html/Confirmation.php on line 21
+[02-Aug-2018 10:12:50 Etc/GMT] PHP Notice:  Array to string conversion in /home/susta91n/public_html/Confirmation.php on line 25
+[02-Aug-2018 10:12:50 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/susta91n/public_html/Confirmation.php on line 27
+[02-Aug-2018 10:13:38 Etc/GMT] PHP Notice:  Array to string conversion in /home/susta91n/public_html/Confirmation.php on line 25
+[02-Aug-2018 10:16:31 Etc/GMT] PHP Notice:  Use of undefined constant email - assumed 'email' in /home/susta91n/public_html/Confirmation.php on line 25
+[02-Aug-2018 10:17:09 Etc/GMT] PHP Notice:  Use of undefined constant email - assumed 'email' in /home/susta91n/public_html/Confirmation.php on line 25
+[02-Aug-2018 10:18:13 Etc/GMT] PHP Notice:  Use of undefined constant email - assumed 'email' in /home/susta91n/public_html/Confirmation.php on line 56
+[02-Aug-2018 11:05:52 Etc/GMT] PHP Notice:  Use of undefined constant email - assumed 'email' in /home/susta91n/public_html/Confirmation.php on line 56
+[02-Aug-2018 11:06:38 Etc/GMT] PHP Notice:  Use of undefined constant email - assumed 'email' in /home/susta91n/public_html/Confirmation.php on line 56
+[02-Aug-2018 17:18:05 Etc/GMT] PHP Notice:  Use of undefined constant email - assumed 'email' in /home/susta91n/public_html/Confirmation.php on line 56
+[02-Aug-2018 17:19:24 Etc/GMT] PHP Notice:  Use of undefined constant email - assumed 'email' in /home/susta91n/public_html/Confirmation.php on line 56
+[02-Aug-2018 19:23:21 Etc/GMT] PHP Notice:  Use of undefined constant email - assumed 'email' in /home/susta91n/public_html/Confirmation.php on line 56
