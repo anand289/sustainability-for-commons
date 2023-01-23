@@ -20,8 +20,6 @@
 	color: #223E4A;
 }
 
-
-	
 	
 #nav{
 	height: 4%;
@@ -168,11 +166,14 @@
 		
 		#card quote{
 			margin:auto;
+			text-indent: 48px;	
 			}
 		
 		#card p{
             font-family:calibri;
-			text-indent: 48px;	
+			font-size: larger;
+			text-indent: 0px;	
+			
 		}
 		
 

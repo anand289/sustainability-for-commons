@@ -170,17 +170,24 @@
 			height:90%;
 			width:75%;
 			margin:auto;
-			text-align:justify;
+			text-align:left;
 			font-size: 15px;
 			padding-top:128px;
 		}
 		
 		#card h3{
 		     letter-spacing:0.5px;
+			 font-size:large;
 		}
 		
+		#card h4{
+			letter-spacing:0.5px;
+			font-size: larger;
+	   }
+	   
 		#card p{
 		    letter-spacing:0.2;
+			font-size: larger;
 		}
 		
 		
